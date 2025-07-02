@@ -1,0 +1,11 @@
+.error {
+  border: .1rem solid #cc0000;
+  padding: .5rem;
+}
+
+.error-text {
+  color: #cc0000;
+  font-size: .875rem;
+  margin-top: .25rem;
+  display: block;
+}
